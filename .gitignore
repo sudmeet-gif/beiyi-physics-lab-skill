@@ -4,6 +4,7 @@ __pycache__/
 work/
 outputs/
 *.pdf
+!beiyi-physics-lab/references/textbooks/*.pdf
 *.png
 *.zip
 .DS_Store

@@ -1,4 +1,4 @@
 interface:
   display_name: "北医物理学实验预习报告"
-  short_description: "依据北医课程材料制作预习报告、适配B5的图表裁剪稿及按需附录"
-  default_prompt: "使用 $beiyi-physics-lab，依据我提供的北医物理学实验材料制作预习报告、图表打印裁剪稿，并按需单独制作附录。"
+  short_description: "先读教材二维码中的北医要求，制作预习报告、B5裁剪稿与按需附录"
+  default_prompt: "使用 $beiyi-physics-lab，先阅读对应实验首页二维码中的北医实验内容及要求，以此为主要依据，结合教材和当前课程材料制作预习报告、适配B5的图表打印裁剪稿，并按需单独制作附录。实操视频无需查看。"
